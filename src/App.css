@@ -80,6 +80,15 @@ body {
   height: 742px;
 }
 
+.exercise-video {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  width: 387px;
+  height: 381px;
+  text-decoration: none;
+}
+
 @media screen and (max-width: 1200px) {
   .hero-banner-img {
     display: none;
